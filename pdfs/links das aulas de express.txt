@@ -1,0 +1,3 @@
+AULA 09 - PARTE 01	https://youtu.be/xOKlZsNdvdI	Express + Mongoose. Inserir e Listar.
+AULA 09 - FINAL	    https://youtu.be/oehhzAYFLME	Express + Mongoose. Editar, apagar e recuperar.
+AULA 10	-           https://youtu.be/L4IHdgmunqA	Conectando o React com o Express + Mongoose.
